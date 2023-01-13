@@ -2,7 +2,7 @@
 
 This repository has a project and assignments that covers the majority of the topics studied throughout the course.
 
-Objective: Upon successful completion of this course, you will be able to:
+Course Objective/description : Upon successful completion of this course, you will be able to:
 1. Apply classical and object-oriented techniques for solving computer-related problems.
 2. Design and implement well-structured algorithms and user-friendly interfaces.
 3. Decompose problems into well-defined components with appropriate linkages and errorchecking.
