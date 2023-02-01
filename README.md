@@ -1,6 +1,6 @@
 # ITE221---Programming-I-
 
-This repository has a project and assignments that covers the majority of the topics studied throughout the course.
+This repository has an individual LCD project and assignments that covers the majority of the topics studied throughout the course.
 
 Course Objective/description : Upon successful completion of this course, you will be able to:
 1. Apply classical and object-oriented techniques for solving computer-related problems.
